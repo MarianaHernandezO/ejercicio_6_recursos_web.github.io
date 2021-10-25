@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+.swiper{
+        width: 100%;
+        padding-top: 50px;
+        padding-bottom: 50px;
+      }
+
+.swiper-slide {
+        background-position: center;
+        background-size: cover;
+        width: 500px;
+        height: 500px;
+      }
